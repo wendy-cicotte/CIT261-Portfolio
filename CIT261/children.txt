@@ -1,0 +1,37 @@
+[
+{
+"name":"Taylor Cicotte",
+"Birth":"1991",
+"status":"Married!"
+},
+{
+"name":"Abigail Cicotte",
+"Birth":"1994",
+"status":"Married!"
+},
+{
+"name":"Madeline Cicotte",
+"Birth":"1996",
+"status":"On mission!"
+},
+{
+"name":"Ruthie Cicotte",
+"Birth":"1998",
+"status":"Home in name only - Senior"
+},
+{
+"name":"Alan Cicotte",
+"Birth":"2000",
+"status":"Sophmore"
+},
+{
+"name":"George Cicotte",
+"Birth":"2003",
+"status":"7th grader"
+},
+{
+"name":"Lucy Cicotte",
+"Birth":"2007",
+"status":"3rd grader"
+}
+]

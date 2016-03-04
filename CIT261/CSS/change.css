@@ -1,0 +1,37 @@
+
+/*boy table*/
+.greenTable{
+    border: 3px solid #CC0000;
+    background-color: #0099CC;
+    color: white;
+    margin:10px;
+}
+.greenHead{
+    font-family: verdana;
+    font-weight:bold;
+    font-size:18px;
+    padding:5px;
+}
+.greenKids{
+    font-family:verdana;
+    font-size: 16px;
+    padding:5px;
+}
+/*girl table*/
+.pinkTable{
+    border: 10px solid #CC3399;
+    background-color: #FFFF00;
+    margin:10px;
+}
+.pinkHead{
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 15px;
+    padding:5px;
+}
+.pinkItems{
+    font-family: Georgia;
+    font-size: 13px;
+    font-style: italic;
+    padding:5px;
+}
